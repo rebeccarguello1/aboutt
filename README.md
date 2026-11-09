@@ -1,3 +1,0 @@
-# aboutt
-
-repository descriptionnn
